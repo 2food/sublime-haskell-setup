@@ -11,12 +11,12 @@ curl -sSL https://get.haskellstack.org/ | sh
 $ stack install cabal-install
 $ cabal update
 ```
-2. Install stylish-haskell hindent:
+3. Install stylish-haskell hindent:
 ```
 $ stack install stylish-haskell hindent
 ```
-3. Install [haskell-ide-engine](https://github.com/haskell/haskell-ide-engine#installation)
-3. Install [Sublime Text](https://www.sublimetext.com/3)
-4. Install the [Sublime Package Control package](http://wbond.net/sublime_packages/package_control/installation)
-5. Use Package Control to install LSP.
-6. [Configure haskell-ide-engine to work with Sublime](https://github.com/haskell/haskell-ide-engine#using-hie-with-sublime-text)
+4. Install [Sublime Text](https://www.sublimetext.com/3)
+5. Install the [Sublime Package Control package](http://wbond.net/sublime_packages/package_control/installation)
+6. Use Package Control to install LSP.
+7. Install [haskell-ide-engine](https://github.com/haskell/haskell-ide-engine#installation)
+8. [Configure haskell-ide-engine to work with Sublime](https://github.com/haskell/haskell-ide-engine#using-hie-with-sublime-text)
