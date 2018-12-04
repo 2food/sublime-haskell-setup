@@ -20,3 +20,7 @@ $ stack install stylish-haskell hindent
 6. Use Package Control to install LSP.
 7. Install [haskell-ide-engine](https://github.com/haskell/haskell-ide-engine#installation)
 8. [Configure haskell-ide-engine to work with Sublime](https://github.com/haskell/haskell-ide-engine#using-hie-with-sublime-text)
+9. Install hoogle
+```
+$ stack hoogle -- generate --local
+```
